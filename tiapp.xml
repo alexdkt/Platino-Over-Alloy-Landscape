@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <id>com.arei.launchTheBomb</id>
+    <id>com.arei.platinoOverAlloy</id>
     <name>Platino-over-alloy-landscape</name>
     <version>1.0</version>
     <publisher>alejandrorayon</publisher>
